@@ -1,2 +1,2 @@
 # N-TV
-![N-TV](n-tv.png)
+![N-TV](ntv.png)
