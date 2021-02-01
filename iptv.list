@@ -1,28 +1,33 @@
-[0] Ahsan TV,         http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
-[1] ANTV,             http://210.210.155.35/qwr9ew/s/s07/02.m3u8
-[2] BERITA SATU,      http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-[3] CNN INDONESIA,    https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-[4] ELSHINTA TV,      http://210.210.155.35/qwr9ew/s/s10/01.m3u8
-[5] GTV,              https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-[6] INDOSIAR,         http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
-[7] KOMPAS TV,        http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
-[8] METRO TV,         http://188.40.76.108:25461/mytv01/uSIRzmks51/142
-[9] MNCTV,            https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-[10] NET TV,          http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-[11] RCTI,            https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-[12] RODJA TV,        http://rr2.dens.tv/s/s14/index.m3u8
-[13] RTV/RAJAWALI TV, http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
-[14] SCTV,            http://210.210.155.35/qwr9ew/s/s03/02.m3u8
-[15] TRANS 7,         http://chostv.mobie.in/files/iptv/trans7.m3u8
-[16] TRANS TV,        https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-[17] TVONE,           http://chostv.mobie.in/files/iptv/tvone.m3u8
-[18] ANIPLUS ID,      http://45.126.83.51/dr9445/h/h02/01.m3u8
-[19] MY KIDS,         http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-[20] ANIMAX,          http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
-[21] AXN,             http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
-[22] K+,              http://210.210.155.35/uq2663/h/h08/index.m3u8
-[23] CINEMA WORLD,    http://45.126.83.51/uq2663/h/h04/index2.m3u8
-[24] HITS,            http://45.126.83.51/uq2663/h/h37/01.m3u8
-[25] THRILL,          http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
-[26] KIX,             http://45.126.83.51/uq2663/h/h07/01.m3u8
-[27] GEM TV Asia,     http://210.210.155.35/uq2663/h/h19/index.m3u8
+[0] TVRI, http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
+[1] RCTI, https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
+[2] SCTV, http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+[3] INDOSIAR, http://210.210.155.35/session/62c3f4aa-7aec-11ea-b162-c81f66f89318/qwr9ew/s/s04/02.m3u8?app_type=mobile&userid=d0cu4j7cnm&tkn=BEMV9570E7UC93I64J3E6KFTM2B2NMJK&chname=IndosiarC&chname=Indosiar
+[4] TVONE, http://chostv.mobie.in/files/iptv/tvone.m3u8
+[5] TRANS 7, https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+[6] TRANS TV, https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+[7] MNCTV, https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+[8] GTV, https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
+[9] ANTV, http://210.210.155.35/qwr9ew/s/s07/02.m3u8
+[10] NET TV, http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+[11] KOMPAS TV, http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
+[12] RTV TV, http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+[13] METRO TV, http://188.40.76.108:25461/mytv01/uSIRzmks51/142
+[14] BERITA SATU, http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+[15] CNN INDONESIA, https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+[16] AHSAN TV, http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+[17] RODJA TV, http://rr2.dens.tv/s/s14/index.m3u8
+[18] ELSHINTA TV, http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+[19] RRINET, http://36.89.47.217:11935/rrinet/live/index.m3u8
+[20] CNBNC, https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+[21] IAM TV, http://iamchannel.org:1935/tes/1/playlist.m3u8
+[22] ANIPLUS ID, http://45.126.83.51/dr9445/h/h02/01.m3u8
+[23] MY KIDS, http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+[24] ANIMAX, http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+[25] AXN, http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+[26] K+, http://210.210.155.35/uq2663/h/h08/index.m3u8
+[27] CINEMA WORLD, http://45.126.83.51/uq2663/h/h04/index2.m3u8
+[28] HITS, http://45.126.83.51/uq2663/h/h37/01.m3u8
+[29] THRILL, http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+[30] KIX, http://45.126.83.51/uq2663/h/h07/01.m3u8
+[31] GEM TV Asia, http://210.210.155.35/uq2663/h/h19/index.m3u8
+[32] Cartoon Network, http://136.243.177.164/CARTOONNETWORK/playlist.m3u8

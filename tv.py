@@ -13,16 +13,15 @@ jml_chl = (len(tv))
 while True:
     s("clear")
     print(f"""
-
 ███╗   ██╗   ████████╗██╗   ██╗
 ████╗  ██║   ╚══██╔══╝██║   ██║
 ██╔██╗ ██║█████╗██║   ██║   ██║
 ██║╚██╗██║╚════╝██║   ╚██╗ ██╔╝
 ██║ ╚████║      ██║    ╚████╔╝ 
 ╚═╝  ╚═══╝      ╚═╝     ╚═══╝  By Nestero
-Streaming TV, terdapat kurang lebih {jml_chl} Chanel Lokal 
+Streaming TV, terdapat kurang lebih 21 Channel Lokal 
 	""")
-    print("List Chanel :")
+    print("List Channel :")
 
     for i, key in enumerate(tv):
     	if (i + 1) % 3:
@@ -30,7 +29,7 @@ Streaming TV, terdapat kurang lebih {jml_chl} Chanel Lokal
     	else:
         	print(key, end='\n')    
 
-    p_tv = int(input(f"\nPilih Chanel 0 - {jml_chl-1} > "))
+    p_tv = int(input(f"\nPilih Channel 0 - {jml_chl-1} > "))
     
     if p_tv == 99:
         exit()
