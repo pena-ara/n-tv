@@ -42,4 +42,4 @@ Streaming TV, terdapat kurang lebih 21 Channel Lokal
         if player == "mpv":
             s(f"mpv --fs --title='{t_tv}' {c_tv}")
         else:
-            s(f"vlc {c_tv}")
+            s(f"{player} {c_tv}")
