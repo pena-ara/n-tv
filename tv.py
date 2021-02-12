@@ -10,6 +10,8 @@ for a in ip_tv:
     a_tv.append(a_list[1].replace("\n", ""))
 jml_chl = (len(tv))
 
+media = "mpv --fs --title=N-TV"
+
 while True:
     s("clear")
     print(f"""
@@ -36,4 +38,4 @@ Streaming TV, terdapat kurang lebih 21 Channel Lokal
     else:
         c_tv = a_tv[p_tv]
         t_tv = tv[p_tv]
-        s(f"mpv --fs --title='{t_tv}' {c_tv}")
+        s(f"{media} {c_tv}")
