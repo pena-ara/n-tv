@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from os import system as s
 
-ip_tv = open("iptv.list").readlines()
+ip_tv = open("channel.ntv").readlines()
 tv = []
 a_tv =[]
 for a in ip_tv:
